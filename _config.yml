@@ -87,6 +87,7 @@ index2_include_index: true # defult is true
 
 # 配置index2 generator，可以是数组或对象
 index2_generator:
+  path: '/home/'
   per_page: 15
   order_by: -date
   include:
