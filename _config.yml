@@ -8,7 +8,7 @@ subtitle: 徐一玄的个人网站
 description: 私人微博|代码分享|文学创作
 keywords: 玄关,徐一玄,Brenda,Java,后端,程序员,HP
 author: 徐一玄Brenda
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -64,7 +64,6 @@ tag_map:
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
-use_date_for_updated: true
 
 # Pagination
 ## Set per_page to 0 to disable pagination
