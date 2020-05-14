@@ -18,7 +18,6 @@ root: /
 #permalink: :year/:month/:day/:title/
 permalink: :category/:id-:post_title.html
 permalink_defaults:
-  :id-:post_title.html: :year:month:day-:hour::minute
 
 # Directory
 source_dir: source
