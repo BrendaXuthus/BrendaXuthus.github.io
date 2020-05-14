@@ -9,7 +9,5 @@ tags: []
 categories:
   - 一级分类
   - 二级分类
-# permalink
-id: {{ date }}
 ---
 <font size=5 style="font-weight:bold"></font>
