@@ -15,8 +15,10 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: xn--4gqy14b4ro.com
 root: /
-permalink: :year/:month/:day/:title/
+#permalink: :year/:month/:day/:title/
+permalink: :category/:id-:post_title.html
 permalink_defaults:
+  :id-:post_title.html: :year:month:day-:hour::minute
 
 # Directory
 source_dir: source
