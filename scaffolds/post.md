@@ -1,13 +1,14 @@
 ---
 layout: post
 title: {{ title }}
-author: ĞìÒ»ĞşBrenda
+author: å¾ä¸€ç„Brenda
 date: {{ date }}
 updated: {{ date }}
 comments: true/false
 tags: []
 categories:
-  - Ò»¼¶·ÖÀà
-  - ¶ş¼¶·ÖÀà
+  - ä¸€çº§åˆ†ç±»
+  - äºŒçº§åˆ†ç±»
+permalink: {{ title }}
 ---
 <font size=5 style="font-weight:bold"></font>
