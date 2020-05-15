@@ -13,12 +13,13 @@ permalink: {{ title }}
 ---
 <font size=5 style="font-weight:bold"></font>
 
-
+<span id="[1]原文"><sup>[[1]](#[1])</sup>
 <br>
 
 <div class="footnote">
 <font size=5>余音</font>
 
+---
 ——此处填写余音——
 
 </div>
@@ -28,6 +29,7 @@ permalink: {{ title }}
 <div class="footnote">
 <font size=5>注释</font>
 
+---
 <span id="[1]">[[1]](#[1]原文)
 
 <span id="[2]">[[2]](#[2]原文)
@@ -44,6 +46,7 @@ permalink: {{ title }}
 </center>
 
 <font color=gray size=2>
+
 Copyright & Disclaimer
 ——此处填写版权声明——
 </font>
