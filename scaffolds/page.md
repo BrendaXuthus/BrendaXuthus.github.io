@@ -2,12 +2,12 @@
 layout: page
 title: {{ title }}
 author: 徐一玄Brenda
-date: {{ date }}
-updated: {{ date }}
 comments: true/false
-tags: 
+type:
 categories:
   - site
   - build/resources
+date: {{ date }}
+updated: {{ date }}
 # permalink
 ---
