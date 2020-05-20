@@ -28,7 +28,7 @@ permalink: index.html
 </div>
 
 <div class="button-box">
-<div class="button" onclick="window.open('fanfic/霍格沃茨禁止御剑飞行/0000-避雷预警/')"><i class="fa fa-scroll"> 同人创作</i></div>
+<div class="button" onclick="window.open('fanfic/hogwarts-forbids-flying-on-swords/0000-避雷预警/')"><i class="fa fa-scroll"> 同人创作</i></div>
 </div>
 </div>
 
@@ -39,6 +39,6 @@ permalink: index.html
 </center>
 
 <style type="text/css">
-.button{width:300px;height:50px;color:#666666;background:rgba(255,255,255,0.5);text-decoration:none;display:block;text-align:center;border-radius:100px;cursor:pointer;border-color:#666666;border-style:solid;margin:0 auto;line-height:50px;}
+.button{width:300px;height:50px;color:#565656;background:rgba(255,255,255,0.5);text-decoration:none;display:block;text-align:center;border-radius:100px;cursor:pointer;border-color:#666666;border-style:solid;margin:0 auto;line-height:50px;}
 .button-box{width:320px;height:100px;line-height:100px;display:inline-block;}
 </style>

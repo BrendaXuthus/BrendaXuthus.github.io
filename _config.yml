@@ -61,6 +61,7 @@ category_map:
   原创: original
   同人: fanfic
   代码: code
+  霍格沃茨禁止御剑飞行: hogwarts-forbids-flying-on-swords
 tag_map:
 
 # Date / Time format
@@ -120,3 +121,10 @@ markdown:
     permalink: true
     permalinkClass: header-anchor
     permalinkSymbol: ''
+
+# hexo-generator-searchdb 站内搜索插件设置
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000

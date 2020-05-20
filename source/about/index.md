@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: 关于 徐一玄
 author: 徐一玄Brenda
 comments: false
 categories:
