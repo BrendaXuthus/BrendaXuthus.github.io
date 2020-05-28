@@ -1,16 +1,16 @@
 ---
 layout: page
-title: 站内标签
+title: 留言板
 #permalink
 author: 徐一玄Brenda
 #keywords: 关键字(SEO)
 #photos: true/false
 #link: 站外链接
 #description: 副标题
-date: 2020-05-20 20:21:41
-updated: 2020-05-20 20:21:41
-comments: false
-type: "tags"
+date: 2020-05-28 03:03:27
+updated: 2020-05-28 03:03:27
+comments: true
+type: "comment"
 tags: []
 categories:
   - site

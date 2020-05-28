@@ -1,14 +1,22 @@
 ---
 layout: page
 title: 关于 徐一玄
+#permalink
 author: 徐一玄Brenda
+#keywords: 关键字(SEO)
+#photos: true/false
+#link: 站外链接
+#description: 副标题
+date: 2020-05-19 10:30:07
+updated: 2020-05-19 10:30:07
 comments: false
+type: "about"
+tags: []
 categories:
   - site
   - build
-date: 2020-05-19 10:30:07
-updated: 2020-05-19 10:30:07
-type: "about"
+# 版权声明类型: -1 默认;0 共享;1 原创;2 HP同人
+copyright: -1
 ---
 <center>
 

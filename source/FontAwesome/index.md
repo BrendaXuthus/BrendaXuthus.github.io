@@ -1,15 +1,22 @@
 ---
 layout: page
 title: FontAwesome
+#permalink
 author: 徐一玄Brenda
+#keywords: 关键字(SEO)
+#photos: true/false
+#link: 站外链接
+#description: 副标题
 comments: false
+date: 2020-05-17 15:42:40
+updated: 2020-05-17 15:42:40
 type: "symbol"
+tags: []
 categories:
   - site
   - resources
-date: 2020-05-17 15:42:40
-updated: 2020-05-17 15:42:40
-# permalink:
+# 版权声明类型: -1 默认;0 共享;1 原创;2 HP同人
+copyright: -1
 ---
 fa fa-ad ：<i class="fa fa-ad"></i>
 fa fa-address-book ：<i class="fa fa-address-book"></i>
