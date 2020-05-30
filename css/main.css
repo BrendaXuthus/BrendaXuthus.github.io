@@ -1214,7 +1214,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #778e6c;
+  background: #f9ff32;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2754,6 +2754,24 @@ hr {
 }
 .back-to-top.back-to-top-on:hover {
   opacity: 0.8;
+}
+.button {
+  line-height: 50px;
+  color: #565656;
+  background: rgba(255,255,255,0.8);
+  margin: 0 auto;
+  text-align: center;
+  text-decoration: none;
+  border-style: solid;
+  border-color: #565656;
+  cursor: pointer;
+}
+.button:hover {
+  color: #222;
+  border-color: #222;
+}
+.button-box {
+  display: inline-block;
 }
 .footnote {
   padding-left: 40px;
