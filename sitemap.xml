@@ -114,7 +114,14 @@
   </url>
   
   <url>
-    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-hijiki/package.json</loc>
+    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-hijiki/assets/hijiki.pose.json</loc>
+    
+    <lastmod>2018-02-14T12:21:52.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-tororo/package-lock.json</loc>
     
     <lastmod>2018-02-14T12:21:52.000Z</lastmod>
     
@@ -135,13 +142,6 @@
   </url>
   
   <url>
-    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-tororo/package-lock.json</loc>
-    
-    <lastmod>2018-02-14T12:21:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-hijiki/assets/hijiki.model.json</loc>
     
     <lastmod>2018-02-14T12:21:52.000Z</lastmod>
@@ -149,7 +149,7 @@
   </url>
   
   <url>
-    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-hijiki/assets/hijiki.pose.json</loc>
+    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-tororo/assets/tororo.pose.json</loc>
     
     <lastmod>2018-02-14T12:21:52.000Z</lastmod>
     
@@ -163,7 +163,7 @@
   </url>
   
   <url>
-    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-tororo/assets/tororo.pose.json</loc>
+    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-hijiki/package.json</loc>
     
     <lastmod>2018-02-14T12:21:52.000Z</lastmod>
     

@@ -1214,7 +1214,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ebbe99;
+  background: #20501c;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2725,6 +2725,12 @@ img.img-topic {
   width: 100%;
   height: 200px;
   object-fit: cover;
+}
+.post-body .image-caption,
+.post-body .figure .caption {
+  font-family: "Source Han Sans CN";
+  font-weight: normal;
+  line-height: 50px;
 }
 hr {
   height: 0px;
