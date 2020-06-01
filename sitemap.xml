@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>xn--4gqy14b4ro.com/photos/data.json</loc>
+    
+    <lastmod>2020-06-01T22:11:13.810Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>xn--4gqy14b4ro.com/photos/index.html</loc>
+    
+    <lastmod>2020-06-01T20:32:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>xn--4gqy14b4ro.com//404.html</loc>
     
     <lastmod>2020-06-01T18:44:30.000Z</lastmod>
@@ -128,7 +142,14 @@
   </url>
   
   <url>
-    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-tororo/package-lock.json</loc>
+    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-tororo/package.json</loc>
+    
+    <lastmod>2018-02-14T12:21:52.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-tororo/assets/tororo.pose.json</loc>
     
     <lastmod>2018-02-14T12:21:52.000Z</lastmod>
     
@@ -136,13 +157,6 @@
   
   <url>
     <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-hijiki/package-lock.json</loc>
-    
-    <lastmod>2018-02-14T12:21:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-tororo/package.json</loc>
     
     <lastmod>2018-02-14T12:21:52.000Z</lastmod>
     
@@ -170,7 +184,7 @@
   </url>
   
   <url>
-    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-tororo/assets/tororo.pose.json</loc>
+    <loc>xn--4gqy14b4ro.com/home/live2d-widget-model-tororo/package-lock.json</loc>
     
     <lastmod>2018-02-14T12:21:52.000Z</lastmod>
     
