@@ -1214,7 +1214,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #60d091;
+  background: #5ba4ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2741,7 +2741,7 @@ hr {
   width: 40px;
   height: 52px;
   line-height: 52px;
-  background: url("/uploads/scroll.png");
+  background: url("/uploads/images/scroll.png");
   margin: 8px -10px -20px;
   opacity: 0;
 }
@@ -2810,23 +2810,23 @@ a:active.heimu {
 }
 @font-face {
   font-family: Deja Vu Sans Mono;
-  src: url("/fonts/DejaVuSansMono-Brenda.ttf");
+  src: url("/uploads/fonts/DejaVuSansMono-Brenda.ttf");
   font-display: swap;
 }
 @font-face {
   font-family: Emoji One Color;
-  src: url("/fonts/EmojiOneColor/EmojiOneMozilla.ttf");
+  src: url("/uploads/fonts/EmojiOneColor/EmojiOneMozilla.ttf");
   font-display: swap;
 }
 @font-face {
   font-family: Source Han Sans CN;
-  src: url("/fonts/SourceHanSansCN/SourceHanSansCN-Bold.otf");
+  src: url("/uploads/fonts/SourceHanSansCN/SourceHanSansCN-Bold.otf");
   font-weight: bold;
   font-display: swap;
 }
 @font-face {
   font-family: Source Han Sans CN;
-  src: url("/fonts/SourceHanSansCN/SourceHanSansCN-Normal.otf");
+  src: url("/uploads/fonts/SourceHanSansCN/SourceHanSansCN-Normal.otf");
   font-weight: normal;
   font-display: swap;
 }
