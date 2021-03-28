@@ -311,7 +311,8 @@
             };
             loadJs("https://cy-cdn.kuaizhan.com/upload/changyan.js",
             function(){ 
-              window.changyan.api.config({appid:appid,conf:conf})
+              window.onload=function(){dl=document.getElementById("SOHUCS").getElementsByClassName("wrap-word-gw");for(var j=0;j<dl.length;j++){d=dl[j];for(var e,i=/\[emoji:(.*?)\]/g,h=[];null!=(n=i.exec(d.innerHTML));){f="\\u"+n[1].substring(0,n[1].length/2),s="\\u"+n[1].substring(n[1].length/2,n[1].length),e=f+s,e=unescape(e.replace(/\\u/g,"%u"));h.push(e)}for(var k=0;k<h.length;k++){d.innerHTML=d.innerHTML.replace(/\[emoji:(.*?)\]/,h[k])}}};
+              window.changyan.api.config({appid:appid,conf:conf});
             });
           }
         })();
