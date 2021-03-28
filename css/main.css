@@ -177,7 +177,7 @@ body {
 body {
   background: var(--body-bg-color);
   color: var(--text-color);
-  font-family: "Deja Vu Sans Mono", "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: "Deja Vu Sans Mono", "Twitter Color Emoji", "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 1em;
   line-height: 2;
 }
@@ -193,7 +193,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Deja Vu Sans Mono", "Source Han Sans CN", "Deja Vu Sans Mono", "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: "Deja Vu Sans Mono", "Twitter Color Emoji", "Source Han Sans CN", "Deja Vu Sans Mono", "Twitter Color Emoji", "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 20px 0 15px;
@@ -436,7 +436,7 @@ pre {
 }
 pre,
 code {
-  font-family: "Deja Vu Sans Mono", "Source Han Sans CN", consolas, Menlo, monospace, "PingFang SC", "Microsoft YaHei";
+  font-family: "Deja Vu Sans Mono", "Twitter Color Emoji", "Source Han Sans CN", consolas, Menlo, monospace, "PingFang SC", "Microsoft YaHei";
 }
 code {
   background: #eee;
@@ -1030,7 +1030,7 @@ pre .javascript .function {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: "Deja Vu Sans Mono", "Source Han Sans CN", "Deja Vu Sans Mono", "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: "Deja Vu Sans Mono", "Twitter Color Emoji", "Source Han Sans CN", "Deja Vu Sans Mono", "Twitter Color Emoji", "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   margin: 0;
@@ -1214,7 +1214,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #6a66ff;
+  background: #fbfff0;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1555,7 +1555,7 @@ pre .javascript .function {
   }
 }
 .post-body {
-  font-family: "Deja Vu Sans Mono", "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: "Deja Vu Sans Mono", "Twitter Color Emoji", "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", sans-serif;
   overflow-wrap: break-word;
   word-wrap: break-word;
 }
@@ -1853,7 +1853,7 @@ pre .javascript .function {
 }
 .posts-expand .post-meta {
   color: #999;
-  font-family: "Deja Vu Sans Mono", "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: "Deja Vu Sans Mono", "Twitter Color Emoji", "Source Han Sans CN", "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 0.75em;
   margin: 3px 0 60px 0;
   text-align: center;
@@ -2814,8 +2814,8 @@ a:active.heimu {
   font-display: swap;
 }
 @font-face {
-  font-family: Emoji One Color;
-  src: url("/uploads/fonts/EmojiOneColor/EmojiOneMozilla.ttf");
+  font-family: Twitter Color Emoji;
+  src: url("/uploads/fonts/TwitterColorEmoji-SVGinOT/TwitterColorEmoji-SVGinOT.ttf");
   font-display: swap;
 }
 @font-face {
