@@ -1214,7 +1214,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f28b38;
+  background: #ffff2f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2810,7 +2810,7 @@ a:active.heimu {
 }
 @font-face {
   font-family: DejaVu Sans Mono;
-  src: url("/uploads/fonts/DejaVuSansMono-Brenda.ttf");
+  src: url("/uploads/fonts/DejaVuSansMono-WithoutEmoji.ttf");
   font-display: swap;
 }
 @font-face {
